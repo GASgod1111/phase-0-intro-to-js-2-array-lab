@@ -17,7 +17,7 @@ function destructivelyRemoveFirstCat() {
   cats.shift('Milo');
 }
 function appendCat(name) {
-  return cats.concat(['Broom']);
+  return cats.concat(['Broom'indexedDB.js ]);
 }
 
 function prependCat(name) {
